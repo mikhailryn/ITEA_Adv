@@ -9,29 +9,43 @@ namespace Homework_1_02
     class Program
     {
         static void Main(string[] args)
-        {
+        {      
+                LinkedList<string> daysOfWeek = new LinkedList<string>();
 
-            LinkedList<string> myList = new LinkedList<string>();
+                daysOfWeek.AddFirst("Monday");
+                daysOfWeek.AddAfter(daysOfWeek.Last, "Tuesday");
+                daysOfWeek.AddAfter(daysOfWeek.Last, "Wednesday");
+                daysOfWeek.AddAfter(daysOfWeek.Last, "Thursday");
+                daysOfWeek.AddAfter(daysOfWeek.Last, "Friday");
 
-            myList.AddLast("1-A");
-            myList.AddLast("2-B");
-            myList.AddLast("3-C");
-            myList.AddLast("4-D");
-            myList.AddLast("5-E");
-            myList.AddLast("6-F");
-            myList.AddLast("7-G");
-            myList.AddLast("8-H");
-            myList.AddLast("9-I");
-            myList.AddLast("10-J");
+                string[] sArray = new string[daysOfWeek.Count];
+                daysOfWeek.CopyTo(sArray, 0);
 
-            // Т.к. удаление по индексу в LinkedList невозможно преобразуем LinkedList в массив строк 
-            string[] myArr = new string[10];
+                int middle_idx = daysOfWeek.Count / 2;
 
-            myList.CopyTo(myArr, 0);
-            // номер элемента к-рый нужно удалить
-            int del = 4;
-            var query = myArr.Where(n => myArr.ElementAt(del) != n);
-            Console.WriteLine(string.Join(" ", query.Select(x => x.ToString()).ToArray()));
+                // Проходим одновременно по массиву и по коллекции
+                Console.WriteLine("Первоначальный список\n");
+                LinkedListNode<string> currentNode = daysOfWeek.First;
+                for (int i = 0; i <= daysOfWeek.Count; i++)
+                {
+                    Console.WriteLine(sArray[i]);
+                    if (i == middle_idx)
+                    {
+                        // Удаляем из коллекции узел, соответствующий элементу массива
+                        daysOfWeek.Remove(currentNode);
+                    }
+
+                    if (currentNode != null) currentNode = currentNode.Next;
+                }
+
+                // Проверка
+                Console.WriteLine("\nСписок после удаления среднего элемента\n");
+                currentNode = daysOfWeek.First;
+                while (currentNode != null)
+                {
+                    Console.WriteLine(currentNode.Value);
+                    currentNode = currentNode.Next;
+                }
             Console.ReadKey();
 
 
