@@ -1,0 +1,14 @@
+C:\Users\Professional\source\repos\Homework_01\Homework_01\bin\Debug\Homework_01.exe.config
+C:\Users\Professional\source\repos\Homework_01\Homework_01\bin\Debug\Homework_01.exe
+C:\Users\Professional\source\repos\Homework_01\Homework_01\bin\Debug\Homework_01.pdb
+C:\Users\Professional\source\repos\Homework_01\Homework_01\obj\Debug\Homework_01.csprojAssemblyReference.cache
+C:\Users\Professional\source\repos\Homework_01\Homework_01\obj\Debug\Homework_01.csproj.CoreCompileInputs.cache
+C:\Users\Professional\source\repos\Homework_01\Homework_01\obj\Debug\Homework_01.exe
+C:\Users\Professional\source\repos\Homework_01\Homework_01\obj\Debug\Homework_01.pdb
+D:\C#\C#\Домашка_C_Adv\Homework_1_01\bin\Debug\Homework_01.exe.config
+D:\C#\C#\Домашка_C_Adv\Homework_1_01\bin\Debug\Homework_01.exe
+D:\C#\C#\Домашка_C_Adv\Homework_1_01\bin\Debug\Homework_01.pdb
+D:\C#\C#\Домашка_C_Adv\Homework_1_01\obj\Debug\Homework_01.csprojAssemblyReference.cache
+D:\C#\C#\Домашка_C_Adv\Homework_1_01\obj\Debug\Homework_01.csproj.CoreCompileInputs.cache
+D:\C#\C#\Домашка_C_Adv\Homework_1_01\obj\Debug\Homework_01.exe
+D:\C#\C#\Домашка_C_Adv\Homework_1_01\obj\Debug\Homework_01.pdb
