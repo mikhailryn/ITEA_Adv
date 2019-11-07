@@ -4,31 +4,16 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-
-
-
-namespace Homework_Adv_3_01
+namespace ConsoleApp16
 {
     class Program
     {
-
-        public delegate BigBadWolf WolfDelegate(string name);
-
+        public delegate BigBadWolf MyDelegate(string name);
         static void Main(string[] args)
-        { 
-            BigBadWolf bigBadWolf = new BigBadWolf("GreyWolf");
-
-                WolfDelegate wolfDelegate;
-
-                wolfDelegate = BigBadWolf => bigBadWolf.name;
-
-             Console.WriteLine(wolfDelegate.Invoke(name: "Wolf"));
-
-            Console.ReadKey();
-            
-        
-
+        {   
+            MyDelegate myDelegate;
+            myDelegate = name => new BigBadWolf(name);
+            myDelegate("GreyWolf");
         }
-       
     }
 }

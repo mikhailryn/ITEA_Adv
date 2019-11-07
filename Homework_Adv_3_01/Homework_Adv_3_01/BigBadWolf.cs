@@ -4,22 +4,17 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Homework_Adv_3_01
+namespace ConsoleApp16
 {
-   public class BigBadWolf
+public    class BigBadWolf
     {
-
-        public string name;
+        public string name { get; set; }
 
         public BigBadWolf(string name)
         {
             this.name = name;
         }
-        /*
-        public string GetName(string name)
-        {
-            return $"Волк: {name}";
-        }
-        */
+
     }
 }
+
