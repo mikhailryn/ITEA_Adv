@@ -7,10 +7,9 @@ using System.Threading.Tasks;
 
 namespace Homework_Adv_4_02
 {
+    public delegate void MyDelegate();
     class Program
     {
-        public delegate void MyDelegate();
-        public event MyDelegate PhoneCall;
         static void Main(string[] args)
         {
             Call call = new Call();

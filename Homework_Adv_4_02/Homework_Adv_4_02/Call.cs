@@ -8,7 +8,7 @@ namespace Homework_Adv_4_02
 {
     class Call
     {
-        public event Action PhoneCall;
+        public event MyDelegate PhoneCall;
         public void DoEvent()
         {
             PhoneCall?.Invoke();
