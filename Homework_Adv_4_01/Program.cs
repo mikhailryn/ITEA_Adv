@@ -8,18 +8,18 @@ namespace Homework_4
 {
     class Program
     {
-        public delegate T GenericDelegate<T>(T obj1, T obj2);
-        static int AddMethod(int num1, int num2)
+        public delegate T GenericDelegate<T,R>(R someName);
+        static string NameMethod(string name)
         {
-            return num1 + num2;
+            return name;
         }
         static void Main(string[] args)
         {
-            GenericDelegate<int> genericDelegate = AddMethod;
+            GenericDelegate<string,string> genericDelegate = NameMethod;
 
-            genericDelegate = (num1, num2) => AddMethod(173, 282);
+            genericDelegate = name => NameMethod("Petr");
    
-            Console.WriteLine(genericDelegate(1,1));
+            Console.WriteLine(genericDelegate(""));
             Console.ReadKey();
         }
     }
