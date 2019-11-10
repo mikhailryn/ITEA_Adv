@@ -1,0 +1,7 @@
+C:\Users\Professional\source\repos\Homework_Adv_4_03\Homework_Adv_4_03\bin\Debug\Homework_Adv_4_03.exe.config
+C:\Users\Professional\source\repos\Homework_Adv_4_03\Homework_Adv_4_03\bin\Debug\Homework_Adv_4_03.exe
+C:\Users\Professional\source\repos\Homework_Adv_4_03\Homework_Adv_4_03\bin\Debug\Homework_Adv_4_03.pdb
+C:\Users\Professional\source\repos\Homework_Adv_4_03\Homework_Adv_4_03\obj\Debug\Homework_Adv_4_03.csprojAssemblyReference.cache
+C:\Users\Professional\source\repos\Homework_Adv_4_03\Homework_Adv_4_03\obj\Debug\Homework_Adv_4_03.csproj.CoreCompileInputs.cache
+C:\Users\Professional\source\repos\Homework_Adv_4_03\Homework_Adv_4_03\obj\Debug\Homework_Adv_4_03.exe
+C:\Users\Professional\source\repos\Homework_Adv_4_03\Homework_Adv_4_03\obj\Debug\Homework_Adv_4_03.pdb
