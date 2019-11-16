@@ -5,3 +5,10 @@ C:\Users\Professional\source\repos\Homework_Adv_5_04\Homework_Adv_5_04\obj\Debug
 C:\Users\Professional\source\repos\Homework_Adv_5_04\Homework_Adv_5_04\obj\Debug\Homework_Adv_5_04.csproj.CoreCompileInputs.cache
 C:\Users\Professional\source\repos\Homework_Adv_5_04\Homework_Adv_5_04\obj\Debug\Homework_Adv_5_04.exe
 C:\Users\Professional\source\repos\Homework_Adv_5_04\Homework_Adv_5_04\obj\Debug\Homework_Adv_5_04.pdb
+D:\C#\C#\Домашка_C_Adv\Homework_Adv_5_04\Homework_Adv_5_04\bin\Debug\Homework_Adv_5_04.exe.config
+D:\C#\C#\Домашка_C_Adv\Homework_Adv_5_04\Homework_Adv_5_04\bin\Debug\Homework_Adv_5_04.exe
+D:\C#\C#\Домашка_C_Adv\Homework_Adv_5_04\Homework_Adv_5_04\bin\Debug\Homework_Adv_5_04.pdb
+D:\C#\C#\Домашка_C_Adv\Homework_Adv_5_04\Homework_Adv_5_04\obj\Debug\Homework_Adv_5_04.csprojAssemblyReference.cache
+D:\C#\C#\Домашка_C_Adv\Homework_Adv_5_04\Homework_Adv_5_04\obj\Debug\Homework_Adv_5_04.csproj.CoreCompileInputs.cache
+D:\C#\C#\Домашка_C_Adv\Homework_Adv_5_04\Homework_Adv_5_04\obj\Debug\Homework_Adv_5_04.exe
+D:\C#\C#\Домашка_C_Adv\Homework_Adv_5_04\Homework_Adv_5_04\obj\Debug\Homework_Adv_5_04.pdb
