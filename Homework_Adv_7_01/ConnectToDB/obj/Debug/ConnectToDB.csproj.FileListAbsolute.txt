@@ -1,0 +1,7 @@
+C:\Users\Professional\source\repos\ConnectToDB\ConnectToDB\bin\Debug\ConnectToDB.exe.config
+C:\Users\Professional\source\repos\ConnectToDB\ConnectToDB\bin\Debug\ConnectToDB.exe
+C:\Users\Professional\source\repos\ConnectToDB\ConnectToDB\bin\Debug\ConnectToDB.pdb
+C:\Users\Professional\source\repos\ConnectToDB\ConnectToDB\obj\Debug\ConnectToDB.csprojAssemblyReference.cache
+C:\Users\Professional\source\repos\ConnectToDB\ConnectToDB\obj\Debug\ConnectToDB.csproj.CoreCompileInputs.cache
+C:\Users\Professional\source\repos\ConnectToDB\ConnectToDB\obj\Debug\ConnectToDB.exe
+C:\Users\Professional\source\repos\ConnectToDB\ConnectToDB\obj\Debug\ConnectToDB.pdb
