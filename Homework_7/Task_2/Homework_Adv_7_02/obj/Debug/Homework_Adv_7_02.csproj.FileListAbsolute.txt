@@ -11,3 +11,9 @@ C:\C#_сисярп\Домашка C#\Homework_Adv_7_02\Homework_Adv_7_02\bin\Deb
 C:\C#_сисярп\Домашка C#\Homework_Adv_7_02\Homework_Adv_7_02\obj\Debug\Homework_Adv_7_02.csprojAssemblyReference.cache
 C:\C#_сисярп\Домашка C#\Homework_Adv_7_02\Homework_Adv_7_02\obj\Debug\Homework_Adv_7_02.exe
 C:\C#_сисярп\Домашка C#\Homework_Adv_7_02\Homework_Adv_7_02\obj\Debug\Homework_Adv_7_02.pdb
+C:\C#_сисярп\Домашка C#\Homework_7\Task_2\Homework_Adv_7_02\bin\Debug\Homework_Adv_7_02.exe.config
+C:\C#_сисярп\Домашка C#\Homework_7\Task_2\Homework_Adv_7_02\bin\Debug\Homework_Adv_7_02.exe
+C:\C#_сисярп\Домашка C#\Homework_7\Task_2\Homework_Adv_7_02\bin\Debug\Homework_Adv_7_02.pdb
+C:\C#_сисярп\Домашка C#\Homework_7\Task_2\Homework_Adv_7_02\obj\Debug\Homework_Adv_7_02.csprojAssemblyReference.cache
+C:\C#_сисярп\Домашка C#\Homework_7\Task_2\Homework_Adv_7_02\obj\Debug\Homework_Adv_7_02.exe
+C:\C#_сисярп\Домашка C#\Homework_7\Task_2\Homework_Adv_7_02\obj\Debug\Homework_Adv_7_02.pdb

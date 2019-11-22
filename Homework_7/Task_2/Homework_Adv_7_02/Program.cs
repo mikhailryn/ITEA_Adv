@@ -14,7 +14,7 @@ namespace Homework_Adv_7_02
         {
 
 
-            var queryString = @"CREATE TABLE Movies" + "Name NVARCHAR(50), Genre NVARCHAR(50), Year INT";
+            var queryString = @"create table Movies ( Name nvarchar(20), Genre nvarchar(50), Year int);";
 
 
             using (SqlConnection connection = new SqlConnection())
