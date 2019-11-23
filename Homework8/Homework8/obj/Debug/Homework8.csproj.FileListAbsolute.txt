@@ -12,3 +12,6 @@ C:\Users\Professional\source\repos\Homework8\Homework8\obj\Debug\Homework8.cspro
 C:\Users\Professional\source\repos\Homework8\Homework8\obj\Debug\Homework8.csproj.CopyComplete
 C:\Users\Professional\source\repos\Homework8\Homework8\obj\Debug\Homework8.exe
 C:\Users\Professional\source\repos\Homework8\Homework8\obj\Debug\Homework8.pdb
+C:\Users\Professional\source\repos\Homework8\Homework8\obj\Debug\Homework8.Migrations.InitialCreate.resources
+C:\Users\Professional\source\repos\Homework8\Homework8\obj\Debug\Homework8.csproj.GenerateResource.cache
+C:\Users\Professional\source\repos\Homework8\Homework8\obj\Debug\Homework8.Migrations.newmigration.resources
