@@ -15,3 +15,19 @@ C:\Users\Professional\source\repos\Homework8\Homework8\obj\Debug\Homework8.pdb
 C:\Users\Professional\source\repos\Homework8\Homework8\obj\Debug\Homework8.Migrations.InitialCreate.resources
 C:\Users\Professional\source\repos\Homework8\Homework8\obj\Debug\Homework8.csproj.GenerateResource.cache
 C:\Users\Professional\source\repos\Homework8\Homework8\obj\Debug\Homework8.Migrations.newmigration.resources
+C:\C#_сисярп\Домашка C#\ITEA_Adv\Homework_Adv_8\Homework8\bin\Debug\Homework8.exe.config
+C:\C#_сисярп\Домашка C#\ITEA_Adv\Homework_Adv_8\Homework8\bin\Debug\Homework8.exe
+C:\C#_сисярп\Домашка C#\ITEA_Adv\Homework_Adv_8\Homework8\bin\Debug\Homework8.pdb
+C:\C#_сисярп\Домашка C#\ITEA_Adv\Homework_Adv_8\Homework8\bin\Debug\EntityFramework.dll
+C:\C#_сисярп\Домашка C#\ITEA_Adv\Homework_Adv_8\Homework8\bin\Debug\EntityFramework.SqlServer.dll
+C:\C#_сисярп\Домашка C#\ITEA_Adv\Homework_Adv_8\Homework8\bin\Debug\PractAdv8.exe
+C:\C#_сисярп\Домашка C#\ITEA_Adv\Homework_Adv_8\Homework8\bin\Debug\EntityFramework.xml
+C:\C#_сисярп\Домашка C#\ITEA_Adv\Homework_Adv_8\Homework8\bin\Debug\EntityFramework.SqlServer.xml
+C:\C#_сисярп\Домашка C#\ITEA_Adv\Homework_Adv_8\Homework8\bin\Debug\PractAdv8.pdb
+C:\C#_сисярп\Домашка C#\ITEA_Adv\Homework_Adv_8\Homework8\bin\Debug\PractAdv8.exe.config
+C:\C#_сисярп\Домашка C#\ITEA_Adv\Homework_Adv_8\Homework8\obj\Debug\Homework8.Migrations.InitialCreate.resources
+C:\C#_сисярп\Домашка C#\ITEA_Adv\Homework_Adv_8\Homework8\obj\Debug\Homework8.Migrations.newmigration.resources
+C:\C#_сисярп\Домашка C#\ITEA_Adv\Homework_Adv_8\Homework8\obj\Debug\Homework8.csproj.GenerateResource.cache
+C:\C#_сисярп\Домашка C#\ITEA_Adv\Homework_Adv_8\Homework8\obj\Debug\Homework8.csproj.CopyComplete
+C:\C#_сисярп\Домашка C#\ITEA_Adv\Homework_Adv_8\Homework8\obj\Debug\Homework8.exe
+C:\C#_сисярп\Домашка C#\ITEA_Adv\Homework_Adv_8\Homework8\obj\Debug\Homework8.pdb

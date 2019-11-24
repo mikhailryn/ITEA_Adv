@@ -34,12 +34,9 @@ namespace Homework8
         public void AddCharacterBookShelf()
         {
             var book = new BookShelfContext();
-            var characterOne = new Character()
-            {FirstName = "Emmmett", LastName = "Brown", Gender = true, Age = 64 };
-            var characterTwo = new Character()
-            {FirstName = "Marty", LastName = "McFly", Gender = true, Age = 24 };
-            book.Characters.Add(characterOne);
-            book.Characters.Add(characterTwo);
+            var characterOne = new Character() {FirstName = "Dale", LastName = "Cooper", Gender = true, Age = 27 };
+            var characterTwo = new Character() {FirstName = "Laura", LastName = "Palmer", Gender = true, Age = 19 };            
+            book.Characters.AddRange(new Character[] {characterOne,characterTwo});
             book.SaveChanges();
             Console.WriteLine($"Characters {characterOne.FirstName},{characterTwo.FirstName} added");
         }
