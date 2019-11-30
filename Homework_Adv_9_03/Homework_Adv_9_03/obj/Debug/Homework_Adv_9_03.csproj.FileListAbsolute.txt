@@ -1,0 +1,7 @@
+D:\C#\C#\Домашка_C_Adv\Homework_Adv_9_03\Homework_Adv_9_03\bin\Debug\Homework_Adv_9_03.exe.config
+D:\C#\C#\Домашка_C_Adv\Homework_Adv_9_03\Homework_Adv_9_03\bin\Debug\Homework_Adv_9_03.exe
+D:\C#\C#\Домашка_C_Adv\Homework_Adv_9_03\Homework_Adv_9_03\bin\Debug\Homework_Adv_9_03.pdb
+D:\C#\C#\Домашка_C_Adv\Homework_Adv_9_03\Homework_Adv_9_03\obj\Debug\Homework_Adv_9_03.csproj.CoreCompileInputs.cache
+D:\C#\C#\Домашка_C_Adv\Homework_Adv_9_03\Homework_Adv_9_03\obj\Debug\Homework_Adv_9_03.exe
+D:\C#\C#\Домашка_C_Adv\Homework_Adv_9_03\Homework_Adv_9_03\obj\Debug\Homework_Adv_9_03.pdb
+D:\C#\C#\Домашка_C_Adv\Homework_Adv_9_03\Homework_Adv_9_03\obj\Debug\Homework_Adv_9_03.csprojAssemblyReference.cache
