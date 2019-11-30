@@ -1,0 +1,15 @@
+D:\C#\C#\Домашка_C_Adv\Homework_Adv_9_02\Homework_Adv_9_02\bin\Debug\Homework_Adv_9_02.exe.config
+D:\C#\C#\Домашка_C_Adv\Homework_Adv_9_02\Homework_Adv_9_02\bin\Debug\Homework_Adv_9_02.exe
+D:\C#\C#\Домашка_C_Adv\Homework_Adv_9_02\Homework_Adv_9_02\bin\Debug\Homework_Adv_9_02.pdb
+D:\C#\C#\Домашка_C_Adv\Homework_Adv_9_02\Homework_Adv_9_02\bin\Debug\EntityFramework.dll
+D:\C#\C#\Домашка_C_Adv\Homework_Adv_9_02\Homework_Adv_9_02\bin\Debug\EntityFramework.SqlServer.dll
+D:\C#\C#\Домашка_C_Adv\Homework_Adv_9_02\Homework_Adv_9_02\bin\Debug\EntityFramework.xml
+D:\C#\C#\Домашка_C_Adv\Homework_Adv_9_02\Homework_Adv_9_02\bin\Debug\EntityFramework.SqlServer.xml
+D:\C#\C#\Домашка_C_Adv\Homework_Adv_9_02\Homework_Adv_9_02\obj\Debug\Homework_Adv_9_02.Form1.resources
+D:\C#\C#\Домашка_C_Adv\Homework_Adv_9_02\Homework_Adv_9_02\obj\Debug\Homework_Adv_9_02.Properties.Resources.resources
+D:\C#\C#\Домашка_C_Adv\Homework_Adv_9_02\Homework_Adv_9_02\obj\Debug\Homework_Adv_9_02.csproj.GenerateResource.cache
+D:\C#\C#\Домашка_C_Adv\Homework_Adv_9_02\Homework_Adv_9_02\obj\Debug\Homework_Adv_9_02.csproj.CoreCompileInputs.cache
+D:\C#\C#\Домашка_C_Adv\Homework_Adv_9_02\Homework_Adv_9_02\obj\Debug\Homework_Adv_9_02.csproj.CopyComplete
+D:\C#\C#\Домашка_C_Adv\Homework_Adv_9_02\Homework_Adv_9_02\obj\Debug\Homework_Adv_9_02.exe
+D:\C#\C#\Домашка_C_Adv\Homework_Adv_9_02\Homework_Adv_9_02\obj\Debug\Homework_Adv_9_02.pdb
+D:\C#\C#\Домашка_C_Adv\Homework_Adv_9_02\Homework_Adv_9_02\obj\Debug\Homework_Adv_9_02.csprojAssemblyReference.cache
